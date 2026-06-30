@@ -12,7 +12,7 @@ Most AI agents are a cost center. You pay for the tokens, you pray for the outpu
 
 ## Watch it run
 
-▶️ **Demo video:** [PASTE YOUR X DEMO POST LINK HERE]
+▶️ **Demo video:** https://x.com/babyape113/status/2071983318137221202
 
 The full loop, live in Telegram, using a real campaign for Quirkies (@quirkiesnft) as the example.
 
