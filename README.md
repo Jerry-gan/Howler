@@ -1,4 +1,4 @@
-# Howler 🦍
+# Howler-Hermes
 
 **An AI employee that won't work until you pay it. Then it pays its own bills and keeps the profit.**
 
